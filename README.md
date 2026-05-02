@@ -1,0 +1,2 @@
+# InfinityCraft-Launcher
+EN
